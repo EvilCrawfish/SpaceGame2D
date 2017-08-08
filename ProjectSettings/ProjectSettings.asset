@@ -588,8 +588,8 @@ PlayerSettings:
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: b0ca783b-55ec-4dd9-be5c-9ccb62c3054e
-  projectName: 2DProj
-  organizationId: dustin-crawford
+  projectName: SpaceGame2D
+  organizationId: darkwell-games
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
